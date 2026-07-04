@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-04T11:06:19.956Z",
+  "items": [
+    {
+      "slug": "claude-code에서-codex-플러그인-활용법-및-설치-가이드",
+      "shortId": "10apxon",
+      "url": "https://briankim1027.github.io/BK_Archievs/marktl/s/10apxon/",
+      "canonicalUrl": "https://briankim1027.github.io/BK_Archievs/marktl/claude-code%EC%97%90%EC%84%9C-codex-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%ED%99%9C%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C/",
+      "sourcePath": "_Raw/Claude Code에서 Codex 플러그인 활용법 및 설치 가이드.md",
+      "artifactType": "interactive-explainer",
+      "title": "Claude Code에서 Codex 플러그인 활용법 및 설치 가이드",
+      "excerpt": "요약 codexplugincc는 Claude Code에서 Codex의 리뷰와 작업 위임 기능을 연결해주는 공식 플러그인입니다. 기존 Codex CLI와 app server를 활용해, Claude Code 안에서 Codex 명령어를 사용할 수 있음 주로 코드 리뷰와 2차 검토, 일부 작업 위임 등 워크플로우 효율화에 중점 ",
+      "tags": [
+        "- \"clippings",
+        "[[토비라이프]]",
+        "clippings"
+      ],
+      "updatedAt": "2026-07-04T11:06:19.956Z"
+    }
+  ]
+}
