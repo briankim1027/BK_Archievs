@@ -1,19 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T11:06:19.956Z",
+  "updatedAt": "2026-07-05T14:49:42.979Z",
   "items": [
     {
-      "slug": "claude-code에서-codex-플러그인-활용법-및-설치-가이드",
+      "slug": "2026-04-13-hermes-brian-프로필-이식-가이드",
+      "shortId": "be7pr3",
+      "url": "https://briankim1027.github.io/BK_Archievs/marktl/s/be7pr3/",
+      "canonicalUrl": "https://briankim1027.github.io/BK_Archievs/marktl/2026-04-13-hermes-brian-%ED%94%84%EB%A1%9C%ED%95%84-%EC%9D%B4%EC%8B%9D-%EA%B0%80%EC%9D%B4%EB%93%9C/",
+      "sourcePath": "_Raw/2026-04-13 Hermes brian 프로필 이식 가이드.md",
+      "artifactType": "research-report",
+      "title": "Hermes brian 프로필 이식 가이드",
+      "excerpt": "작성 시각: 20260413 18:24 KST 작성 위치: /home/mysktelecom/.hermes/hermesagent 이 문서는 오늘 구성한 brian 프로필 환경을 집의 desktop / notebook 같은 다른 PC로 최대한 동일하게 옮길 때 필요한 절차를 정리한 문서이다. 1. 목표 이식 대상 환경: Br",
+      "tags": [],
+      "updatedAt": "2026-07-05T14:49:42.979Z"
+    },
+    {
+      "slug": "claude-codeìì-codex-íë¬ê·¸ì¸-íì©ë²-ë°-ì¤ì¹-ê°ì´ë",
       "shortId": "10apxon",
       "url": "https://briankim1027.github.io/BK_Archievs/marktl/s/10apxon/",
       "canonicalUrl": "https://briankim1027.github.io/BK_Archievs/marktl/claude-code%EC%97%90%EC%84%9C-codex-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%ED%99%9C%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C/",
-      "sourcePath": "_Raw/Claude Code에서 Codex 플러그인 활용법 및 설치 가이드.md",
+      "sourcePath": "_Raw/Claude Codeìì Codex íë¬ê·¸ì¸ íì©ë² ë° ì¤ì¹ ê°ì´ë.md",
       "artifactType": "interactive-explainer",
-      "title": "Claude Code에서 Codex 플러그인 활용법 및 설치 가이드",
-      "excerpt": "요약 codexplugincc는 Claude Code에서 Codex의 리뷰와 작업 위임 기능을 연결해주는 공식 플러그인입니다. 기존 Codex CLI와 app server를 활용해, Claude Code 안에서 Codex 명령어를 사용할 수 있음 주로 코드 리뷰와 2차 검토, 일부 작업 위임 등 워크플로우 효율화에 중점 ",
+      "title": "Claude Codeìì Codex íë¬ê·¸ì¸ íì©ë² ë° ì¤ì¹ ê°ì´ë",
+      "excerpt": "ìì½ codexpluginccë Claude Codeìì Codexì ë¦¬ë·°ì ìì ìì ê¸°ë¥ì ì°ê²°í´ì£¼ë ê³µì íë¬ê·¸ì¸ìëë¤. ê¸°ì¡´ Codex CLIì app serverë¥¼ íì©í´, Claude Code ììì Codex ëªë ¹ì´ë¥¼ ì¬ì©í  ì ìì ì£¼ë¡ ì½ë ë¦¬ë·°ì 2ì°¨ ê²í , ì¼ë¶ ìì ìì ë± ìí¬íë¡ì° í¨ì¨íì ì¤ì  ",
       "tags": [
         "- \"clippings",
-        "[[토비라이프]]",
+        "[[í ë¹ë¼ì´í]]",
         "clippings"
       ],
       "updatedAt": "2026-07-04T11:06:19.956Z"
